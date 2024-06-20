@@ -4,13 +4,11 @@
 
 > Quote: "Commit to your goals, and success will follow.”
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmul4532&label=Profile%20views&color=0e75b6&style=flat" alt="nazmul4532" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmul4532-brainstation&label=Profile%20views&color=0e75b6&style=flat" alt="nazmul4532-brainstation" /> </p>
 
 # 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/nazmul-hossain-165642250/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:nazmulhossain@iut-dhaka.edu?subject=Hello%20Nazmul"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://www.facebook.com/nazmul4532/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>&nbsp;
-<a href="https://www.instagram.com/nazmul4532"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="mailto:mm.nazmul@brainstation-23.com?subject=Hello%20Nazmul"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://codeforces.com/profile/nazmul4532" target="_blank"><img src="https://img.shields.io/badge/codeforces-f7c946?&style=for-the-badge&logo=codeforces&logoColor=black" alt="nazmul4532"  /></a>&nbsp;
 <a href="https://www.kaggle.com/nazmul4532"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>&nbsp;
 <!--<a href="https://leetcode.com/Nazmul4532" target="_blank"><img src="https://img.shields.io/badge/leetcode-a2842e?&style=for-the-badge&logo=leetcode&logoColor=white" alt="nazmul4532"  /></a>&nbsp;-->
@@ -109,21 +107,21 @@
 #### 🌡️ Most Used Languages
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nazmul4532&langs_count=10&layout=compact&theme=blueberry&custom_title=Nazmul's%20Most%20Used%20Languages&border_color=6281A7" height="260px"/>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nazmul4532-brainstation&langs_count=10&layout=compact&theme=blueberry&custom_title=Nazmul's%20Most%20Used%20Languages&border_color=6281A7" height="260px"/>
 
   </a>
 </div>
 
 #### 📊 Contribution Graph
-<p align="center"><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazmul4532&theme=blueberry&border_color=FFFFFF" alt=“Nazmul-Hossain" align = "center"/></p>
+<p align="center"><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazmul4532-brainstation&theme=blueberry&border_color=FFFFFF" alt=“Nazmul-Hossain" align = "center"/></p>
 
 
 #### 🤖 GitHub Stats
 <a> 
-  <a href="https://github.com/nazmul4532">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmul4532&theme=blueberry&border_color=6281A7&background=0D1117&title_color=8BB9DD&icon_color=86BBD8&text_color=9EBAC7" alt="Nazmul's GitHub streak" height="300px" width="49.5%"/>
+  <a href="https://github.com/nazmul4532-brainstation">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmul4532-brainstation&theme=blueberry&border_color=6281A7&background=0D1117&title_color=8BB9DD&icon_color=86BBD8&text_color=9EBAC7" alt="Nazmul's GitHub streak" height="300px" width="49.5%"/>
   </a>
-  <a href="https://github.com/nazmul4532"><img alt="Nazmul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nazmul4532&show_icons=true&count_private=true&show=prs_merged&theme=blueberry&border_color=FFFFFF&bg_color=0D1117&hide=contribs&text_color=00D8A8&icon_color=00D8A8" height="300px" width="49.5%"/></a>    
+  <a href="https://github.com/nazmul4532-brainstation"><img alt="Nazmul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nazmul4532-brainstation&show_icons=true&count_private=true&show=prs_merged&theme=blueberry&border_color=FFFFFF&bg_color=0D1117&hide=contribs&text_color=00D8A8&icon_color=00D8A8" height="300px" width="49.5%"/></a>    
 </a>
 
 ### 🔭 My Projects
