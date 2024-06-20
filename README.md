@@ -1,6 +1,6 @@
 # Hey There! 👋 I am M M Nazmul Hossain. I like to go by Nazz. 
 
-### I am currently a junior year student pursuing a BSc in Software Engineering at the Islamic University of Technology(IUT), Bangladesh. I am eager to learn, and develop new skills.
+### I am currently a junior year student pursuing a BSc in Software Engineering at the Islamic University of Technology(IUT), Bangladesh. As a part of my Industrial Training Internship Course, I am working as an Industrial Trainee at Brainstation 23 PLC. I am eager to learn, and develop new skills.
 
 > Quote: "Commit to your goals, and success will follow.”
 
